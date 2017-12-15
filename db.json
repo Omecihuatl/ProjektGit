@@ -1,0 +1,23 @@
+{
+    "list": [
+
+        { "id": "paczka1", "date": "15.12.2017 12:21", "place": "Placówka Courier Company", "status": "Zatwierdzenie nadania paczki" },
+        { "id": "paczka1", "date": "15.12.2017 12:31", "place": "Placówka Courier Company", "status": "Zarejestrowanie paczki w systemie" },
+        { "id": "paczka1", "date": "15.12.2017 15:21", "place": "Sortownia", "status": "Paczka czeka na kuriera" },
+        { "id": "paczka1", "date": "16.12.2017 08:21", "place": "-", "status": "W drodze" },
+
+
+        { "id": "paczka2", "date": "16.12.2017 12:11", "place": "Lorem ipsum dolor", "status": " Quisque lorem tortor" },
+        { "id": "paczka2", "date": "16.12.2017 13:31", "place": "Lorem ipsum dolor", "status": " Quisque lorem tortor" },
+        { "id": "paczka2", "date": "16.12.2017 14:45", "place": "Lorem ipsum dolor", "status": " Quisque lorem tortor" },
+        { "id": "paczka2", "date": "17.12.2017 10:01", "place": "-", "status": " Quisque lorem tortor" },
+
+
+        { "id": "paczka3", "date": "13.12.2017 12:11", "place": "Sed vel lectus. Ut s", "status": "Nullam wisi ultrici" },
+        { "id": "paczka3", "date": "13.12.2017 13:31", "place": "Sed vel lectus. Ut s", "status": "Nullam wisi ultrici" },
+        { "id": "paczka3", "date": "13.12.2017 14:45", "place": "Sed vel lectus. Ut s", "status": "Nullam wisi ultrici" }
+
+    ]
+
+
+}
